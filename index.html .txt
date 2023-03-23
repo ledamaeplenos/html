@@ -1,0 +1,19 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<p>
+<font size="5"face="calibri"color="red">
+Name: Leda Mae Plenos 
+</font></p>
+<p>
+<font size="5"face="calibri"color="Maroon">
+Section: BIT-CT 3C
+</font></p>
+<p>
+<font size="5"face="calibri"color="blue">
+Subject: Embedded System
+</font></p>
+</body>
+</html>
